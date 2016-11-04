@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					B0724E241DCC65AA009A53E7 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 7SWLW9K9L9;
 						ProvisioningStyle = Automatic;
 					};
 					B0724E3D1DCC65AD009A53E7 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7SWLW9K9L9;
 				INFOPLIST_FILE = GitDemoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.syneotek.GitDemoTest;
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7SWLW9K9L9;
 				INFOPLIST_FILE = GitDemoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.syneotek.GitDemoTest;
